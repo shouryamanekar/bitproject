@@ -1,6 +1,6 @@
-# BIT-FIT Mental Health Diagnosis App
+# BitProject Mental Health Diagnosis App
 
-The BIT-FIT Mental Health Diagnosis App is a Flutter-based mobile application designed to help users assess their mental health status by answering a series of questions. This app provides a user-friendly interface for self-assessment and offers insights into one's mental well-being.
+The BitProject Mental Health Diagnosis App is a Flutter-based mobile application designed to help users assess their mental health status by answering a series of questions. This app provides a user-friendly interface for self-assessment and offers insights into one's mental well-being.
 
 ## Features
 
@@ -21,13 +21,13 @@ To run this app on your local machine or on a mobile device, follow these steps:
 2. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/bitfit-mental-health-diagnosis.git
+   git clone https://github.com/shouryamanekar/bitproject.git
    ```
 
 3. **Navigate to the Project:** Change your working directory to the project folder:
 
    ```bash
-   cd bitfit-mental-health-diagnosis
+   cd bitproject
    ```
 
 4. **Run the App:** Connect a mobile device or emulator and run the app using Flutter:
@@ -68,6 +68,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to [contact us](mailto:your.email@example.com).
+If you have any questions or suggestions, please feel free to [contact us](speedk143.dev@gmail.com).
 
-Thank you for using the BIT-FIT Mental Health Diagnosis App! We hope it helps promote mental health awareness and well-being.
+Thank you for using the BitProject Mental Health Diagnosis App! We hope it helps promote mental health awareness and well-being.
