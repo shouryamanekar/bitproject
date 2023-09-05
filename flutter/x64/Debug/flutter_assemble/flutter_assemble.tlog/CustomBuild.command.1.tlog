@@ -1,0 +1,28 @@
+^C:\USERS\ASUS\DESKTOP\APPS\ML\BITPROJECT\CMAKEFILES\934FA94E7995890C0D522538419C1FA3\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=C:\Users\ASUS\Desktop\APPS\ML\bitproject FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\ASUS\Desktop\APPS\ML\bitproject\windows\flutter\ephemeral PROJECT_DIR=C:\Users\ASUS\Desktop\APPS\ML\bitproject FLUTTER_TARGET=C:\Users\ASUS\Desktop\APPS\ML\bitproject\lib\main.dart DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC84ZDNhODE2MmIzYWI3YTNhOTU1YWYxZDlkNjc0YjFjNWZhNzg0NzFhLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\ASUS\Desktop\APPS\ML\bitproject\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ASUS\DESKTOP\APPS\ML\BITPROJECT\CMAKEFILES\79CE6C042C766C5F5E173D603EBC15C3\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ASUS\DESKTOP\APPS\ML\BITPROJECT\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ASUS/Desktop/APPS/ML/bitproject/windows -BC:/Users/ASUS/Desktop/APPS/ML/bitproject --check-stamp-file C:/Users/ASUS/Desktop/APPS/ML/bitproject/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

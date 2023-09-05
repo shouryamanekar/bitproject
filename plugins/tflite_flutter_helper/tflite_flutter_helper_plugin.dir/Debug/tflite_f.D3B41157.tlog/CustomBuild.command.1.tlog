@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DESKTOP\APPS\ML\BITPROJECT\WINDOWS\FLUTTER\EPHEMERAL\.PLUGIN_SYMLINKS\TFLITE_FLUTTER_HELPER\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ASUS/Desktop/APPS/ML/bitproject/windows -BC:/Users/ASUS/Desktop/APPS/ML/bitproject --check-stamp-file C:/Users/ASUS/Desktop/APPS/ML/bitproject/plugins/tflite_flutter_helper/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

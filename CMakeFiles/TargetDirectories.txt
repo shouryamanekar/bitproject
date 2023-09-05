@@ -1,0 +1,13 @@
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/CMakeFiles/INSTALL.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/CMakeFiles/ALL_BUILD.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/flutter/CMakeFiles/INSTALL.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/runner/CMakeFiles/bitproject.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/runner/CMakeFiles/INSTALL.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/plugins/tflite_flutter_helper/CMakeFiles/tflite_flutter_helper_plugin.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/plugins/tflite_flutter_helper/CMakeFiles/INSTALL.dir
+C:/Users/ASUS/Desktop/APPS/ML/bitproject/plugins/tflite_flutter_helper/CMakeFiles/ALL_BUILD.dir
